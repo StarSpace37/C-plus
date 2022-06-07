@@ -1,0 +1,10 @@
+﻿  Tetris.cpp
+C:\Users\admin\source\repos\Tetris\Tetris\Tetris.cpp(42,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\admin\source\repos\Tetris\Tetris\Tetris.cpp(52,33): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\admin\source\repos\Tetris\Tetris\Tetris.cpp(79,25): warning C4305: =: усечение из "double" в "float"
+C:\Users\admin\source\repos\Tetris\Tetris\Tetris.cpp(151,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\admin\source\repos\Tetris\Tetris\Tetris.cpp(160,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\admin\source\repos\Tetris\Tetris\Tetris.cpp(160,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\admin\source\repos\Tetris\Tetris\Tetris.cpp(166,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\admin\source\repos\Tetris\Tetris\Tetris.cpp(166,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Tetris.vcxproj -> C:\Users\admin\source\repos\Tetris\Debug\Tetris.exe
